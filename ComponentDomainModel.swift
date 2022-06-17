@@ -7,6 +7,9 @@ enum ComponentDomainModelType: String {
   case horizontalGrid = "scrollable-list"
   case verticalGrid = "grid"
 }
+as
+as
+as
 
 struct ComponentDomainModel {
   var id: String
